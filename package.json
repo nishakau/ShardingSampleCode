@@ -1,0 +1,31 @@
+{
+  "name": "sharding",
+  "version": "1.0.0",
+  "description": "This is a demo application to show table sharding in oracle",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nishant and ashish",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "chart.js": "^2.9.4",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "echarts": "^5.0.2",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "jquery": "^3.5.1",
+    "memorystore": "^1.6.4",
+    "morgan": "^1.10.0",
+    "node-cron": "^3.0.0",
+    "oracledb": "^5.1.0",
+    "path": "^0.12.7",
+    "uniqid": "^5.2.0"
+  }
+}
